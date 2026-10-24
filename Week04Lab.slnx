@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Ex1_Kiosk/Ex1_Kiosk.vcxproj" Id="35cda0df-0672-4b77-90fb-cf919f599765" />
+  <Project Path="Ex2_Conditions/Ex2_Conditions.vcxproj" Id="47ef77f4-4a40-4370-958b-51b2fa96b374" />
 </Solution>
