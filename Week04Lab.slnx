@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Ex2_Conditions/Ex2_Conditions.vcxproj" Id="47ef77f4-4a40-4370-958b-51b2fa96b374" />
+  <Project Path="Ex3_Parcel/Ex3_Parcel.vcxproj" Id="76b9cb17-eea1-4d71-87a5-8c4f20d9ac31" />
 </Solution>
