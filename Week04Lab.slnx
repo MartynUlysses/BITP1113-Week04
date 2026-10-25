@@ -6,4 +6,5 @@
   <Project Path="Ex2_Conditions/Ex2_Conditions.vcxproj" Id="47ef77f4-4a40-4370-958b-51b2fa96b374" />
   <Project Path="Ex3_Parcel/Ex3_Parcel.vcxproj" Id="76b9cb17-eea1-4d71-87a5-8c4f20d9ac31" />
   <Project Path="Ex4_Toll/Ex4_Toll.vcxproj" Id="1223ea9f-98c2-4538-b13f-55e0b9652e70" />
+  <Project Path="Ex5_Hostel/Ex5_Hostel.vcxproj" Id="a8fb243a-88d6-46f4-85b0-7dcb35aa1d10" />
 </Solution>
